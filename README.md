@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm Hoan
 - 🌱 I’m currently learning at FPT University, specializing in AI
+
+  
+-   🌱 Each day brings new growth in my journey with applied data science, especially in the realm of computer vision.
+-   ⚡ Fun fact: Curiosity has been my innate trait since day one.
+-   📫 How to reach me: hoanle2003@gmail.com or my facebook
+
 <!--
 **huyhoanlee/huyhoanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
