@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hoan
-- 🌱 I’m currently learning at FPT University, specializing in AI
+- 🌱 I’m currently studying at FPT University, specializing in AI
 
   
 -   🌱 Each day brings new growth in my journey with applied data science, especially in the realm of computer vision.
